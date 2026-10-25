@@ -8,4 +8,4 @@
 
 ####  Resources
 
-- **Base Framework:** [Exiled 6.1.0](https://github.com/Exiled-Team/EXILED/tree/6.1.0),[Exiled 5.3.2](https://github.com/Exiled-Team/EXILED/tree/5.3.2).
+- **Base Framework:** [Exiled 6.1.0-rc.1](https://github.com/Exiled-Team/EXILED/tree/6.1.0-rc.1), [Exiled 5.3.2](https://github.com/Exiled-Team/EXILED/tree/5.3.2).
